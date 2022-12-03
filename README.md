@@ -5,7 +5,7 @@ Algorithm quickstarts
 
 ## Resources
 ### People
-- [scandum | GitHub](https://github.com/scandum)
+- [scandum | GitHub](https://github.com/scandum) - Has a lot of good C algo libraries (e.g.: sorting).
 - [JoanaMota | GitHub](https://github.com/JoanaMota)
 - [colesbury | GitHub](https://github.com/colesbury) - AI at Facebook
 - [mcleantom | GitHub](https://github.com/mcleantom) - Help with algo for merging JSON configue files.
