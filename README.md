@@ -4,6 +4,8 @@
 Algorithm quickstarts
 
 ## Resources
+### People
+- [scandum | GitHub](https://github.com/scandum)
 ### Books
 - [Grokking Algorithms: An illustrated guide for programmers and other curious people | Manning](https://www.amazon.ca/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/)
 - [Classic Computer Science Problems in Python | Manning](https://www.amazon.ca/Classic-Computer-Science-Problems-Python/dp/1617295981/)
